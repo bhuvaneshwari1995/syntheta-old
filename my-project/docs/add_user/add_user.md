@@ -1,5 +1,5 @@
 # ADD USER
-The Add User functionality provides a streamlined approach to managing user accounts within the system. It includes features for creating individual users, uploading multiple users in bulk, and managing user actions.
+The **Add User** functionality provides a streamlined approach to managing user accounts within the system. It includes features for creating individual users, uploading multiple users in bulk, and managing user actions.
 
 ## Create User
 **Step 1**: Click on "Add User".
